@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Business\\Business.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -189,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,11 +213,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\Core.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -256,14 +256,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -280,8 +280,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Core\\Core.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Core\\Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JL/pOw2zKXxlYZBPO4uzMKku145beaCmMjA+zCqnrkJpwEZlSL75tspKj8E5atJcUR6d+wUoyDTWO6FNqWWlWg==",
+  "dgSpecHash": "ypPVI0WynYJdeuSWlQQuRTj1GOdQEZvDDQmWU+ZEwaTvuettasdU0mq+/nEbBpzha88VWT9gcLFmFGZYNAOKqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

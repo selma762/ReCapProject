@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OmffzSuQwxiB/6VybdoiXLkYeR/yNYO3x/wwEt6Rk5p9tMWPqvN7WUQoJY8oTQnJ6a8W1Ps+G3Pdzi8m6TnhOA==",
+  "dgSpecHash": "iX+t8a7lr1Yp3VfUj8glDgufeSvBAOvJ/JBiVzNCWntn77FjiKF06r9FyTVgYdP02bImOKcu5i8Muzoxg8gTtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\GIT\\Proje2\\ReCapProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
